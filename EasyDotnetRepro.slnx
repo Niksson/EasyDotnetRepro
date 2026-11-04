@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EasyDotnetRepro.AppHost/EasyDotnetRepro.AppHost.csproj" />
+  <Project Path="EasyDotnetRepro.WebApi/EasyDotnetRepro.WebApi.csproj" />
+</Solution>
